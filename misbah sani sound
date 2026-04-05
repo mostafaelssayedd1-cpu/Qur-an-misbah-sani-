@@ -7,688 +7,802 @@
     <language>ar</language>
     <author>Misbah Sani (مصباح ساني)</author>
 
+    <!-- 001 -->
     <item>
       <title>001 - الفاتحة (Al-Faatiha)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/001.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9.mp3</guid>
     </item>
 
+    <!-- 002 -->
     <item>
       <title>002 - البقرة (Al-Baqara)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/002.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9.mp3</guid>
     </item>
 
+    <!-- 003 -->
     <item>
-      <title>003 - آل عمران (Aal-Iimraan)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/003.mp3" length="0" type="audio/mpeg"/>
+      <title>003 - آل عمران (Aal-Imraan)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86.mp3</guid>
     </item>
 
+    <!-- 004 -->
     <item>
       <title>004 - النساء (An-Nisaa)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/004.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1.mp3</guid>
     </item>
 
+    <!-- 005 -->
     <item>
       <title>005 - المائدة (Al-Maa'ida)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/005.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9.mp3</guid>
     </item>
 
+    <!-- 006 -->
     <item>
       <title>006 - الأنعام (Al-An'aam)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/006.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%B9%D8%A7%D9%85.mp3</guid>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/006.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/006.mp3</guid>
     </item>
 
+    <!-- 007 -->
     <item>
       <title>007 - الأعراف (Al-A'raaf)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/007.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/007.mp3</guid>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/007.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/007.mp3</guid>
     </item>
 
+    <!-- 008 -->
     <item>
       <title>008 - الأنفال (Al-Anfaal)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/008.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%A7%D9%84.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%A7%D9%84.mp3</guid>
     </item>
 
+    <!-- 009 -->
     <item>
       <title>009 - التوبة (At-Tawba)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/009.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/009.mp3</guid>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/009.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/009.mp3</guid>
     </item>
 
+    <!-- 010 -->
     <item>
-      <title>010 - يونس (Yuunus)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/010.mp3" length="0" type="audio/mpeg"/>
+      <title>010 - يونس (Yunus)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%8A%D9%88%D9%86%D8%B3.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%8A%D9%88%D9%86%D8%B3.mp3</guid>
     </item>
 
+    <!-- 011 -->
     <item>
-      <title>011 - هود (Huud)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/011.mp3" length="0" type="audio/mpeg"/>
+      <title>011 - هود (Hud)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%87%D9%88%D8%AF.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%87%D9%88%D8%AF.mp3</guid>
     </item>
 
+    <!-- 012 -->
     <item>
-      <title>012 - يوسف (Yuusuf)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/012.mp3" length="0" type="audio/mpeg"/>
+      <title>012 - يوسف (Yusuf)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%8A%D9%88%D8%B3%D9%81.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%8A%D9%88%D8%B3%D9%81.mp3</guid>
     </item>
 
+    <!-- 013 -->
     <item>
       <title>013 - الرعد (Ar-Ra'd)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/013.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%B9%D8%AF.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%B9%D8%AF.mp3</guid>
     </item>
 
+    <!-- 014 -->
     <item>
-      <title>014 - إبراهيم (Ibraahiim)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/014.mp3" length="0" type="audio/mpeg"/>
+      <title>014 - إبراهيم (Ibrahim)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85.mp3</guid>
     </item>
 
+    <!-- 015 -->
     <item>
       <title>015 - الحجر (Al-Hijr)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/015.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B1.mp3</guid>
     </item>
 
+    <!-- 016 -->
     <item>
       <title>016 - النحل (An-Nahl)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/016.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%AD%D9%84.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%AD%D9%84.mp3</guid>
     </item>
 
+    <!-- 017 -->
     <item>
-      <title>017 - الإسراء (Al-Israa)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/017.mp3" length="0" type="audio/mpeg"/>
+      <title>017 - الإسراء (Al-Isra)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A7%D8%A1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A7%D8%A1.mp3</guid>
     </item>
 
+    <!-- 018 -->
     <item>
       <title>018 - الكهف (Al-Kahf)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/018.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D9%87%D9%81.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D9%87%D9%81.mp3</guid>
     </item>
 
+    <!-- 019 -->
     <item>
       <title>019 - مريم (Maryam)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/019.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%85%D8%B1%D9%8A%D9%85.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%85%D8%B1%D9%8A%D9%85.mp3</guid>
     </item>
 
+    <!-- 020 -->
     <item>
-      <title>020 - طه (Taa-Haa)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/020.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/020.mp3</guid>
+      <title>020 - طه (Ta-Ha)</title>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/020.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/020.mp3</guid>
     </item>
 
+    <!-- 021 -->
     <item>
-      <title>021 - الأنبياء (Al-Anbiyaa)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/021.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%A8%D9%8A%D8%A7%D8%A1.mp3</guid>
+      <title>021 - الأنبياء (Al-Anbiya)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%A8%D9%8A%D8%A7%D8%A1.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%A8%D9%8A%D8%A7%D8%A1.mp3</guid>
     </item>
 
+    <!-- 022 -->
     <item>
       <title>022 - الحج (Al-Hajj)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/022.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AC.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AC.mp3</guid>
     </item>
 
+    <!-- 023 -->
     <item>
-      <title>023 - المؤمنون (Al-Mu'minuun)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/023.mp3" length="0" type="audio/mpeg"/>
+      <title>023 - المؤمنون (Al-Mu'minun)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%88%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%88%D9%86.mp3</guid>
     </item>
 
+    <!-- 024 -->
     <item>
-      <title>024 - النور (An-Nuur)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/024.mp3" length="0" type="audio/mpeg"/>
+      <title>024 - النور (An-Nur)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D9%88%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D9%88%D8%B1.mp3</guid>
     </item>
 
+    <!-- 025 -->
     <item>
-      <title>025 - الفرقان (Al-Furqaan)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/025.mp3" length="0" type="audio/mpeg"/>
+      <title>025 - الفرقان (Al-Furqan)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%B1%D9%82%D8%A7%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%B1%D9%82%D8%A7%D9%86.mp3</guid>
     </item>
 
+    <!-- 026 -->
     <item>
-      <title>026 - الشعراء (Ash-Shu'araa)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/026.mp3" length="0" type="audio/mpeg"/>
+      <title>026 - الشعراء (Ash-Shu'ara)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D8%A1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D8%A1.mp3</guid>
     </item>
 
+    <!-- 027 -->
     <item>
       <title>027 - النمل (An-Naml)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/027.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D9%85%D9%84.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D9%85%D9%84.mp3</guid>
     </item>
 
+    <!-- 028 -->
     <item>
       <title>028 - القصص (Al-Qasas)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/028.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D8%B5%D8%B5.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D8%B5%D8%B5.mp3</guid>
     </item>
 
+    <!-- 029 -->
     <item>
-      <title>029 - العنكبوت (Al-Ankabuut)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/029.mp3" length="0" type="audio/mpeg"/>
+      <title>029 - العنكبوت (Al-Ankabut)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D9%86%D9%83%D8%A8%D9%88%D8%AA.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D9%86%D9%83%D8%A8%D9%88%D8%AA.mp3</guid>
     </item>
 
+    <!-- 030 -->
     <item>
-      <title>030 - الروم (Ar-Ruum)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/030.mp3" length="0" type="audio/mpeg"/>
+      <title>030 - الروم (Ar-Rum)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D9%85.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D9%85.mp3</guid>
     </item>
 
+    <!-- 031 -->
     <item>
-      <title>031 - لقمان (Luqmaan)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/031.mp3" length="0" type="audio/mpeg"/>
+      <title>031 - لقمان (Luqman)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%84%D9%82%D9%85%D8%A7%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%84%D9%82%D9%85%D8%A7%D9%86.mp3</guid>
     </item>
 
+    <!-- 032 -->
     <item>
       <title>032 - السجدة (As-Sajda)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/032.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B3%D8%AC%D8%AF%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B3%D8%AC%D8%AF%D8%A9.mp3</guid>
     </item>
 
+    <!-- 033 -->
     <item>
-      <title>033 - الأحزاب (Al-Ahzaab)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/033.mp3" length="0" type="audio/mpeg"/>
+      <title>033 - الأحزاب (Al-Ahzab)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%AD%D8%B2%D8%A7%D8%A8.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%AD%D8%B2%D8%A7%D8%A8.mp3</guid>
     </item>
 
+    <!-- 034 -->
     <item>
-      <title>034 - سبأ (Saba')</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/034.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/034.mp3</guid>
+      <title>034 - سبأ (Saba)</title>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/034.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/034.mp3</guid>
     </item>
 
+    <!-- 035 -->
     <item>
-      <title>035 - فاطر (Faatir)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/035.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/035.mp3</guid>
+      <title>035 - فاطر (Fatir)</title>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/035.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/035.mp3</guid>
     </item>
 
+    <!-- 036 -->
     <item>
-      <title>036 - يس (Yaa-Siin)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/036.mp3" length="0" type="audio/mpeg"/>
+      <title>036 - يس (Ya-Sin)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%8A%D8%B3.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%8A%D8%B3.mp3</guid>
     </item>
 
+    <!-- 037 -->
     <item>
-      <title>037 - الصافات (As-Saaffaat)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/037.mp3" length="0" type="audio/mpeg"/>
+      <title>037 - الصافات (As-Saffat)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B5%D8%A7%D9%81%D8%A7%D8%AA.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B5%D8%A7%D9%81%D8%A7%D8%AA.mp3</guid>
     </item>
 
+    <!-- 038 -->
     <item>
-      <title>038 - ص (Saad)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/038.mp3" length="0" type="audio/mpeg"/>
+      <title>038 - ص (Sad)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%B5.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%B5.mp3</guid>
     </item>
 
+    <!-- 039 -->
     <item>
       <title>039 - الزمر (Az-Zumar)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/039.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B2%D9%85%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B2%D9%85%D8%B1.mp3</guid>
     </item>
 
+    <!-- 040 -->
     <item>
-      <title>040 - غافر (Al-Ghaafir)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/040.mp3" length="0" type="audio/mpeg"/>
+      <title>040 - غافر (Ghafir)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%BA%D8%A7%D9%81%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%BA%D8%A7%D9%81%D8%B1.mp3</guid>
     </item>
 
+    <!-- 041 -->
     <item>
       <title>041 - فصلت (Fussilat)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/041.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%81%D8%B5%D9%84%D8%AA.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%81%D8%B5%D9%84%D8%AA.mp3</guid>
     </item>
 
+    <!-- 042 -->
     <item>
-      <title>042 - الشورى (Ash-Shuuraa)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/042.mp3" length="0" type="audio/mpeg"/>
+      <title>042 - الشورى (Ash-Shura)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D9%88%D8%B1%D9%89.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D9%88%D8%B1%D9%89.mp3</guid>
     </item>
 
+    <!-- 043 -->
     <item>
       <title>043 - الزخرف (Az-Zukhruf)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/043.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B2%D8%AE%D8%B1%D9%81.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B2%D8%AE%D8%B1%D9%81.mp3</guid>
     </item>
 
+    <!-- 044 -->
     <item>
-      <title>044 - الدخان (Ad-Dukhaan)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/044.mp3" length="0" type="audio/mpeg"/>
+      <title>044 - الدخان (Ad-Dukhan)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AF%D8%AE%D8%A7%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AF%D8%AE%D8%A7%D9%86.mp3</guid>
     </item>
 
+    <!-- 045 -->
     <item>
-      <title>045 - الجاثية (Al-Jaathiya)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/045.mp3" length="0" type="audio/mpeg"/>
+      <title>045 - الجاثية (Al-Jathiya)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AC%D8%A7%D8%AB%D9%8A%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AC%D8%A7%D8%AB%D9%8A%D8%A9.mp3</guid>
     </item>
 
+    <!-- 046 -->
     <item>
-      <title>046 - الأحقاف (Al-Ahqaaf)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/046.mp3" length="0" type="audio/mpeg"/>
+      <title>046 - الأحقاف (Al-Ahqaf)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%AD%D9%82%D8%A7%D9%81.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%AD%D9%82%D8%A7%D9%81.mp3</guid>
     </item>
 
+    <!-- 047 -->
     <item>
       <title>047 - محمد (Muhammad)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/047.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/047.mp3</guid>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/047.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/047.mp3</guid>
     </item>
 
+    <!-- 048 -->
     <item>
       <title>048 - الفتح (Al-Fath)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/048.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%AA%D8%AD.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%AA%D8%AD.mp3</guid>
     </item>
 
+    <!-- 049 -->
     <item>
-      <title>049 - الحجرات (Al-Hujuraat)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/049.mp3" length="0" type="audio/mpeg"/>
+      <title>049 - الحجرات (Al-Hujurat)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B1%D8%A7%D8%AA.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B1%D8%A7%D8%AA.mp3</guid>
     </item>
 
+    <!-- 050 -->
     <item>
-      <title>050 - ق (Qaaf)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/050.mp3" length="0" type="audio/mpeg"/>
+      <title>050 - ق (Qaf)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%82.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%82.mp3</guid>
     </item>
 
+    <!-- 051 -->
     <item>
-      <title>051 - الذاريات (Adh-Dhaariyaat)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/051.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/051.mp3</guid>
+      <title>051 - الذاريات (Adh-Dhariyat)</title>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/051.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/051.mp3</guid>
     </item>
 
+    <!-- 052 -->
     <item>
-      <title>052 - الطور (At-Tuur)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/052.mp3" length="0" type="audio/mpeg"/>
+      <title>052 - الطور (At-Tur)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B7%D9%88%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B7%D9%88%D8%B1.mp3</guid>
     </item>
 
+    <!-- 053 -->
     <item>
       <title>053 - النجم (An-Najm)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/053.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%AC%D9%85.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%AC%D9%85.mp3</guid>
     </item>
 
+    <!-- 054 -->
     <item>
       <title>054 - القمر (Al-Qamar)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/054.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D9%85%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D9%85%D8%B1.mp3</guid>
     </item>
 
+    <!-- 055 -->
     <item>
-      <title>055 - الرحمن (Ar-Rahmaan)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/055.mp3" length="0" type="audio/mpeg"/>
+      <title>055 - الرحمن (Ar-Rahman)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%AC%D9%85%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%AC%D9%85%D9%86.mp3</guid>
     </item>
 
+    <!-- 056 -->
     <item>
-      <title>056 - الواقعة (Al-Waaqi'a)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/056.mp3" length="0" type="audio/mpeg"/>
+      <title>056 - الواقعة (Al-Waqi'a)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D8%A9.mp3</guid>
     </item>
 
+    <!-- 057 -->
     <item>
-      <title>057 - الحديد (Al-Hadiid)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/057.mp3" length="0" type="audio/mpeg"/>
+      <title>057 - الحديد (Al-Hadid)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF.mp3</guid>
     </item>
 
+    <!-- 058 -->
     <item>
-      <title>058 - المجادلة (Al-Mujaadila)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/058.mp3" length="0" type="audio/mpeg"/>
+      <title>058 - المجادلة (Al-Mujadila)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%AF%D9%84%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%AF%D9%84%D8%A9.mp3</guid>
     </item>
 
+    <!-- 059 -->
     <item>
       <title>059 - الحشر (Al-Hashr)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/059.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%B4%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AD%D8%B4%D8%B1.mp3</guid>
     </item>
 
+    <!-- 060 -->
     <item>
       <title>060 - الممتحنة (Al-Mumtahana)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/060.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%AD%D9%86%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%AD%D9%86%D8%A9.mp3</guid>
     </item>
 
+    <!-- 061 -->
     <item>
       <title>061 - الصف (As-Saff)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/061.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B5%D9%81.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B5%D9%81.mp3</guid>
     </item>
 
+    <!-- 062 -->
     <item>
       <title>062 - الجمعة (Al-Jumu'a)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/062.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9.mp3</guid>
     </item>
 
+    <!-- 063 -->
     <item>
-      <title>063 - المنافقون (Al-Munaafiqhuun)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/063.mp3" length="0" type="audio/mpeg"/>
+      <title>063 - المنافقون (Al-Munafiqun)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D9%82%D9%88%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D9%82%D9%88%D9%86.mp3</guid>
     </item>
 
+    <!-- 064 -->
     <item>
-      <title>064 - التغابن (At-Taghaabun)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/064.mp3" length="0" type="audio/mpeg"/>
+      <title>064 - التغابن (At-Taghabun)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D8%BA%D8%A7%D8%A8%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D8%BA%D8%A7%D8%A8%D9%86.mp3</guid>
     </item>
 
+    <!-- 065 -->
     <item>
-      <title>065 - الطلاق (At-Talaaq)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/065.mp3" length="0" type="audio/mpeg"/>
+      <title>065 - الطلاق (At-Talaq)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D9%82.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D9%82.mp3</guid>
     </item>
 
+    <!-- 066 -->
     <item>
-      <title>066 - التحريم (At-Tahriim)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/066.mp3" length="0" type="audio/mpeg"/>
+      <title>066 - التحريم (At-Tahrim)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85.mp3</guid>
     </item>
 
+    <!-- 067 -->
     <item>
       <title>067 - الملك (Al-Mulk)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/067.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D9%84%D9%83.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D9%84%D9%83.mp3</guid>
     </item>
 
+    <!-- 068 -->
     <item>
       <title>068 - القلم (Al-Qalam)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/068.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D9%84%D9%85.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D9%84%D9%85.mp3</guid>
     </item>
 
+    <!-- 069 -->
     <item>
-      <title>069 - الحاقة (Al-Haaqqa)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/069.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/069.mp3</guid>
+      <title>069 - الحاقة (Al-Haqqah)</title>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/069.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/069.mp3</guid>
     </item>
 
+    <!-- 070 -->
     <item>
-      <title>070 - المعارج (Al-Ma'aarij)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/070.mp3" length="0" type="audio/mpeg"/>
+      <title>070 - المعارج (Al-Ma'arij)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%AC.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%AC.mp3</guid>
     </item>
 
+    <!-- 071 -->
     <item>
-      <title>071 - نوح (Nuuh)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/071.mp3" length="0" type="audio/mpeg"/>
+      <title>071 - نوح (Nuh)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%86%D9%88%D8%AD.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D9%86%D9%88%D8%AD.mp3</guid>
     </item>
 
+    <!-- 072 -->
     <item>
       <title>072 - الجن (Al-Jinn)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/072.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AC%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AC%D9%86.mp3</guid>
     </item>
 
+    <!-- 073 -->
     <item>
       <title>073 - المزمل (Al-Muzzammil)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/073.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B2%D9%85%D9%84.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B2%D9%85%D9%84.mp3</guid>
     </item>
 
+    <!-- 074 -->
     <item>
       <title>074 - المدثر (Al-Muddaththir)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/074.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%AF%D8%AB%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%AF%D8%AB%D8%B1.mp3</guid>
     </item>
 
+    <!-- 075 -->
     <item>
-      <title>075 - القيامة (Al-Qiyaama)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/075.mp3" length="0" type="audio/mpeg"/>
+      <title>075 - القيامة (Al-Qiyamah)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85%D8%A9.mp3</guid>
     </item>
 
+    <!-- 076 -->
     <item>
-      <title>076 - الإنسان (Al-Insaan)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/076.mp3" length="0" type="audio/mpeg"/>
+      <title>076 - الإنسان (Al-Insan)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86.mp3</guid>
     </item>
 
+    <!-- 077 -->
     <item>
-      <title>077 - المرسلات (Al-Mursalaat)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/077.mp3" length="0" type="audio/mpeg"/>
+      <title>077 - المرسلات (Al-Mursalat)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%84%D8%A7%D8%AA.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%84%D8%A7%D8%AA.mp3</guid>
     </item>
 
+    <!-- 078 -->
     <item>
-      <title>078 - النبأ (An-Naba')</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/078.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/078.mp3</guid>
+      <title>078 - النبأ (An-Naba)</title>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/078.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/078.mp3</guid>
     </item>
 
+    <!-- 079 -->
     <item>
-      <title>079 - النازعات (An-Naazi'aat)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/079.mp3" length="0" type="audio/mpeg"/>
+      <title>079 - النازعات (An-Nazi'at)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA.mp3</guid>
     </item>
 
+    <!-- 080 -->
     <item>
-      <title>080 - عبس ('Abasa)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/080.mp3" length="0" type="audio/mpeg"/>
+      <title>080 - عبس (Abasa)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%B9%D8%A8%D8%B3.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%B9%D8%A8%D8%B3.mp3</guid>
     </item>
 
+    <!-- 081 -->
     <item>
-      <title>081 - التكوير (At-Takwiir)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/081.mp3" length="0" type="audio/mpeg"/>
+      <title>081 - التكوير (At-Takwir)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D8%B1.mp3</guid>
     </item>
 
+    <!-- 082 -->
     <item>
-      <title>082 - الانفطار (Al-Infitaar)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/082.mp3" length="0" type="audio/mpeg"/>
+      <title>082 - الانفطار (Al-Infitar)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%B7%D8%A7%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%B7%D8%A7%D8%B1.mp3</guid>
     </item>
 
+    <!-- 083 -->
     <item>
-      <title>083 - المطففين (Al-Mutaffifiin)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/083.mp3" length="0" type="audio/mpeg"/>
+      <title>083 - المطففين (Al-Mutaffifin)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B7%D9%81%D9%81%D9%8A%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B7%D9%81%D9%81%D9%8A%D9%86.mp3</guid>
     </item>
 
+    <!-- 084 -->
     <item>
-      <title>084 - الانشقاق (Al-Inshiqaaq)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/084.mp3" length="0" type="audio/mpeg"/>
+      <title>084 - الانشقاق (Al-Inshiqaq)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%B4%D9%82%D8%A7%D9%82.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%B4%D9%82%D8%A7%D9%82.mp3</guid>
     </item>
 
+    <!-- 085 -->
     <item>
-      <title>085 - البروج (Al-Buruuj)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/085.mp3" length="0" type="audio/mpeg"/>
+      <title>085 - البروج (Al-Buruj)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AC.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AC.mp3</guid>
     </item>
 
+    <!-- 086 -->
     <item>
-      <title>086 - الطارق (At-Taariq)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/086.mp3" length="0" type="audio/mpeg"/>
+      <title>086 - الطارق (At-Tariq)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%82.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%82.mp3</guid>
     </item>
 
+    <!-- 087 -->
     <item>
-      <title>087 - الأعلى (Al-A'laa)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/087.mp3" length="0" type="audio/mpeg"/>
+      <title>087 - الأعلى (Al-A'la)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89.mp3</guid>
     </item>
 
+    <!-- 088 -->
     <item>
-      <title>088 - الغاشية (Al-Ghaashiya)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/088.mp3" length="0" type="audio/mpeg"/>
+      <title>088 - الغاشية (Al-Ghashiyah)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%BA%D8%A7%D8%B4%D9%8A%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%BA%D8%A7%D8%B4%D9%8A%D8%A9.mp3</guid>
     </item>
 
+    <!-- 089 -->
     <item>
       <title>089 - الفجر (Al-Fajr)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/089.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%AC%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%AC%D8%B1.mp3</guid>
     </item>
 
+    <!-- 090 -->
     <item>
       <title>090 - البلد (Al-Balad)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/090.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D9%84%D8%AF.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D9%84%D8%AF.mp3</guid>
     </item>
 
+    <!-- 091 -->
     <item>
       <title>091 - الشمس (Ash-Shams)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/091.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D9%85%D8%B3.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D9%85%D8%B3.mp3</guid>
     </item>
 
+    <!-- 092 -->
     <item>
       <title>092 - الليل (Al-Layl)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/092.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%84%D9%8A%D9%84.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%84%D9%8A%D9%84.mp3</guid>
     </item>
 
+    <!-- 093 -->
     <item>
-      <title>093 - الضحى (Ad-Duhaa)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/093.mp3" length="0" type="audio/mpeg"/>
+      <title>093 - الضحى (Ad-Duha)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B6%D8%AD%D9%89.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B6%D8%AD%D9%89.mp3</guid>
     </item>
 
+    <!-- 094 -->
     <item>
       <title>094 - الشرح (Ash-Sharh)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/094.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B1%D8%AD.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B1%D8%AD.mp3</guid>
     </item>
 
+    <!-- 095 -->
     <item>
-      <title>095 - التين (At-Tiin)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/095.mp3" length="0" type="audio/mpeg"/>
+      <title>095 - التين (At-Tin)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%8A%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%8A%D9%86.mp3</guid>
     </item>
 
+    <!-- 096 -->
     <item>
-      <title>096 - العلق (Al-'Alaq)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/096.mp3" length="0" type="audio/mpeg"/>
+      <title>096 - العلق (Al-Alaq)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D9%84%D9%82.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D9%84%D9%82.mp3</guid>
     </item>
 
+    <!-- 097 -->
     <item>
       <title>097 - القدر (Al-Qadr)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/097.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D8%AF%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D8%AF%D8%B1.mp3</guid>
     </item>
 
+    <!-- 098 -->
     <item>
-      <title>098 - البينة (Al-Bayyina)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/098.mp3" length="0" type="audio/mpeg"/>
+      <title>098 - البينة (Al-Bayyinah)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D8%A9.mp3</guid>
     </item>
 
+    <!-- 099 -->
     <item>
-      <title>099 - الزلزلة (Az-Zalzala)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/099.mp3" length="0" type="audio/mpeg"/>
+      <title>099 - الزلزلة (Az-Zalzalah)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D9%84%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D9%84%D8%A9.mp3</guid>
     </item>
 
+    <!-- 100 -->
     <item>
-      <title>100 - العاديات (Al-'Aadiyaat)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/100.mp3" length="0" type="audio/mpeg"/>
+      <title>100 - العاديات (Al-Adiyat)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A7%D8%AA.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A7%D8%AA.mp3</guid>
     </item>
 
+    <!-- 101 -->
     <item>
-      <title>101 - القارعة (Al-Qaari'a)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/101.mp3" length="0" type="audio/mpeg"/>
+      <title>101 - القارعة (Al-Qari'ah)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%B9%D8%A9.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%B9%D8%A9.mp3</guid>
     </item>
 
+    <!-- 102 -->
     <item>
-      <title>102 - التكاثر (At-Takaathur)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/102.mp3" length="0" type="audio/mpeg"/>
+      <title>102 - التكاثر (At-Takathur)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D8%AB%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D8%AB%D8%B1.mp3</guid>
     </item>
 
+    <!-- 103 -->
     <item>
-      <title>103 - العصر (Al-'Asr)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/103.mp3" length="0" type="audio/mpeg"/>
+      <title>103 - العصر (Al-Asr)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.mp3</guid>
     </item>
 
+    <!-- 104 -->
     <item>
-      <title>104 - الهمزة (Al-Humaza)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/104.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/104.mp3</guid>
+      <title>104 - الهمزة (Al-Humazah)</title>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/104.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/104.mp3</guid>
     </item>
 
+    <!-- 105 -->
     <item>
-      <title>105 - الفيل (Al-Fiil)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/105.mp3" length="0" type="audio/mpeg"/>
+      <title>105 - الفيل (Al-Fil)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D9%8A%D9%84.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D9%8A%D9%84.mp3</guid>
     </item>
 
+    <!-- 106 -->
     <item>
       <title>106 - قريش (Quraysh)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/106.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/106.mp3</guid>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/106.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/106.mp3</guid>
     </item>
 
+    <!-- 107 -->
     <item>
-      <title>107 - الماعون (Al-Maa'uun)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/107.mp3" length="0" type="audio/mpeg"/>
+      <title>107 - الماعون (Al-Ma'un)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86.mp3</guid>
     </item>
 
+    <!-- 108 -->
     <item>
       <title>108 - الكوثر (Al-Kawthar)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/108.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1.mp3</guid>
     </item>
 
+    <!-- 109 -->
     <item>
-      <title>109 - الكافرون (Al-Kaafiruun)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/109.mp3" length="0" type="audio/mpeg"/>
+      <title>109 - الكافرون (Al-Kafirun)</title>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86.mp3</guid>
     </item>
 
+    <!-- 110 -->
     <item>
       <title>110 - النصر (An-Nasr)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/110.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%B5%D8%B1.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%B5%D8%B1.mp3</guid>
     </item>
 
+    <!-- 111 -->
     <item>
       <title>111 - المسد (Al-Masad)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/111.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B3%D8%AF.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B3%D8%AF.mp3</guid>
     </item>
 
+    <!-- 112 -->
     <item>
-      <title>112 - الإخلاص (Al-Ikhlaas)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/112.mp3" length="0" type="audio/mpeg"/>
+      <title>112 - الإخلاص (Al-Ikhlas)</title>
+      <enclosure url="https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D8%B5.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260404_20260404_2207/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D8%B5.mp3</guid>
     </item>
 
+    <!-- 113 -->
     <item>
       <title>113 - الفلق (Al-Falaq)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/113.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D9%84%D9%82.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/20260405_20260405_0031/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D9%84%D9%82.mp3</guid>
     </item>
 
+    <!-- 114 -->
     <item>
-      <title>114 - الناس (An-Naas)</title>
-      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/114.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/114.mp3</guid>
+      <title>114 - الناس (An-Nas)</title>
+      <enclosure url="https://archive.org/download/quraninoromignatranslation/114.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/quraninoromignatranslation/114.mp3</guid>
     </item>
 
   </channel>
